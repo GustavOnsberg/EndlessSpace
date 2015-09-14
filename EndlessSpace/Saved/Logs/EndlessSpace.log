@@ -9186,4 +9186,680 @@
 [2015.09.14-18.43.08:691][827]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
 [2015.09.14-18.43.08:692][827]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
 [2015.09.14-18.43.08:692][827]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
-[2015.09.14-18.43.08:695][827]LogSavePack
+[2015.09.14-18.43.08:695][827]LogSavePackage: Save=143.140930ms
+[2015.09.14-18.43.08:695][827]LogSavePackage: Moving '../../../../../../GitHub/EndlessSpace/EndlessSpace/Saved/PlayerShip_BP0755E5F24EB9D77DA21FD696AB8894D4.tmp' to '../../../../../../GitHub/EndlessSpace/EndlessSpace/Content/Blueprints/PlayerShip_BP.uasset'
+[2015.09.14-18.43.08:697][827]LogSavePackage: Total save time: 149.922527ms
+[2015.09.14-18.43.08:697][827]LogSavePackage:Warning: Finished SavePackage ../../../../../../GitHub/EndlessSpace/EndlessSpace/Content/Blueprints/PlayerShip_BP.uasset
+[2015.09.14-18.43.09:804][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.09.14-18.43.09:804][925]PIE: New page: PIE session: DevMap_01 (Sep 14, 2015, 10:43:09 PM)
+[2015.09.14-18.43.09:804][925]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap_01
+[2015.09.14-18.43.09:805][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000772s)
+[2015.09.14-18.43.09:806][925]LogAIModule: Creating AISystem for world DevMap_01
+[2015.09.14-18.43.09:806][925]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2015.09.14-18.43.09:806][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap_01.DevMap_01 to /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01 (0.001663s)
+[2015.09.14-18.43.09:806][925]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.09.14-18.43.09:834][925]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.09.14-18.43.09:842][925]LogInit: FAudioDevice initialized.
+[2015.09.14-18.43.09:878][925]LogWorld: Game class is 'EndlessGameMode_BP_C'
+[2015.09.14-18.43.09:881][925]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01 up for play (max tick rate 0) at 2015.09.14-20.43.09
+[2015.09.14-18.43.09:881][925]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01:PersistentLevel.GameSession_19 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.14-18.43.09:881][925]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01:PersistentLevel.GameNetworkManager_19 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.14-18.43.09:881][925]LogWorld: Bringing up level for play took: 0.001262
+[2015.09.14-18.43.09:883][925]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DevMap_01 -0.283
+[2015.09.14-18.43.26:184][407]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000037DC602840
+[2015.09.14-18.43.36:296][  8]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.09.14-18.44.55:864][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.09.14-18.44.55:864][893]PIE: New page: PIE session: DevMap_01 (Sep 14, 2015, 10:44:55 PM)
+[2015.09.14-18.44.55:864][893]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap_01
+[2015.09.14-18.44.55:865][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000802s)
+[2015.09.14-18.44.55:866][893]LogAIModule: Creating AISystem for world DevMap_01
+[2015.09.14-18.44.55:866][893]LogPlayLevel: PIE: World Init took: (0.000879s)
+[2015.09.14-18.44.55:866][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap_01.DevMap_01 to /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01 (0.001859s)
+[2015.09.14-18.44.55:866][893]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.09.14-18.44.55:892][893]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.09.14-18.44.55:900][893]LogInit: FAudioDevice initialized.
+[2015.09.14-18.44.55:932][893]LogWorld: Game class is 'EndlessGameMode_BP_C'
+[2015.09.14-18.44.55:934][893]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01 up for play (max tick rate 0) at 2015.09.14-20.44.55
+[2015.09.14-18.44.55:934][893]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01:PersistentLevel.GameSession_20 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.14-18.44.55:935][893]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01:PersistentLevel.GameNetworkManager_20 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.14-18.44.55:935][893]LogWorld: Bringing up level for play took: 0.001423
+[2015.09.14-18.44.55:937][893]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DevMap_01 -0.229
+[2015.09.14-18.45.24:804][569]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000037ABB7CF40
+[2015.09.14-18.46.25:911][625]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.09.14-18.46.41:425][823]BlueprintLog: New page: Compile PlayerShip_BP
+[2015.09.14-18.46.41:522][823]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_12) Not registered. Aborting.
+[2015.09.14-18.46.41:557][823]BlueprintEditorCompileResults: Info [1772.55] Compile of PlayerShip_BP successful! [in 132 ms]
+[2015.09.14-18.46.42:810][908]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.09.14-18.46.42:883][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerShip_BP" FILE="../../../../../../GitHub/EndlessSpace/EndlessSpace/Content/Blueprints/PlayerShip_BP.uasset" SILENT=true
+[2015.09.14-18.46.42:902][908]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:902][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:902][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:902][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:902][908]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:902][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:902][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:902][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:902][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:903][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:903][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:903][908]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:919][908]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:919][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:919][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:919][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:919][908]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:919][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:919][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:919][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:920][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:920][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:920][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:920][908]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:936][908]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:936][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:936][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:936][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:937][908]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:937][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:937][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:937][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:937][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:937][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:937][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:937][908]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:991][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:991][908]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:991][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:991][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:991][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:991][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:992][908]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:992][908]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:992][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:992][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:992][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.42:992][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.43:025][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.43:025][908]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.43:025][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.43:026][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.43:026][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.43:026][908]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.43:026][908]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.43:026][908]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.43:026][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.43:026][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.43:026][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.43:026][908]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.46.43:029][908]LogSavePackage: Save=143.968628ms
+[2015.09.14-18.46.43:029][908]LogSavePackage: Moving '../../../../../../GitHub/EndlessSpace/EndlessSpace/Saved/PlayerShip_BP517BAD6A4167C0DCA8E2EFA224676E8D.tmp' to '../../../../../../GitHub/EndlessSpace/EndlessSpace/Content/Blueprints/PlayerShip_BP.uasset'
+[2015.09.14-18.46.43:031][908]LogSavePackage: Total save time: 146.780159ms
+[2015.09.14-18.46.43:031][908]LogSavePackage:Warning: Finished SavePackage ../../../../../../GitHub/EndlessSpace/EndlessSpace/Content/Blueprints/PlayerShip_BP.uasset
+[2015.09.14-18.47.05:718][717]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.09.14-18.47.17:065][512]BlueprintLog: New page: Compile PlayerShip_BP
+[2015.09.14-18.47.17:158][512]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_13) Not registered. Aborting.
+[2015.09.14-18.47.17:192][512]BlueprintEditorCompileResults: Info [1808.19] Compile of PlayerShip_BP successful! [in 126 ms]
+[2015.09.14-18.47.18:742][621]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.09.14-18.47.18:742][621]PIE: New page: PIE session: DevMap_01 (Sep 14, 2015, 10:47:18 PM)
+[2015.09.14-18.47.18:743][621]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap_01
+[2015.09.14-18.47.18:743][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000785s)
+[2015.09.14-18.47.18:744][621]LogAIModule: Creating AISystem for world DevMap_01
+[2015.09.14-18.47.18:744][621]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2015.09.14-18.47.18:744][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap_01.DevMap_01 to /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01 (0.001710s)
+[2015.09.14-18.47.18:744][621]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.09.14-18.47.18:772][621]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.09.14-18.47.18:779][621]LogInit: FAudioDevice initialized.
+[2015.09.14-18.47.18:813][621]LogWorld: Game class is 'EndlessGameMode_BP_C'
+[2015.09.14-18.47.18:815][621]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01 up for play (max tick rate 0) at 2015.09.14-20.47.18
+[2015.09.14-18.47.18:815][621]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01:PersistentLevel.GameSession_21 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.14-18.47.18:816][621]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01:PersistentLevel.GameNetworkManager_21 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.14-18.47.18:816][621]LogWorld: Bringing up level for play took: 0.001181
+[2015.09.14-18.47.18:818][621]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DevMap_01 0.652
+[2015.09.14-18.47.21:572][818]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000037DE57A020
+[2015.09.14-18.47.24:875][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.09.14-18.47.24:875][ 50]PIE: New page: PIE session: DevMap_01 (Sep 14, 2015, 10:47:24 PM)
+[2015.09.14-18.47.24:875][ 50]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap_01
+[2015.09.14-18.47.24:876][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000811s)
+[2015.09.14-18.47.24:876][ 50]LogAIModule: Creating AISystem for world DevMap_01
+[2015.09.14-18.47.24:877][ 50]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2015.09.14-18.47.24:877][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap_01.DevMap_01 to /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01 (0.001662s)
+[2015.09.14-18.47.24:901][ 50]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.09.14-18.47.24:909][ 50]LogInit: FAudioDevice initialized.
+[2015.09.14-18.47.24:976][ 50]LogWorld: Game class is 'EndlessGameMode_BP_C'
+[2015.09.14-18.47.24:979][ 50]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01 up for play (max tick rate 0) at 2015.09.14-20.47.24
+[2015.09.14-18.47.24:979][ 50]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01:PersistentLevel.GameSession_22 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.14-18.47.24:979][ 50]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01:PersistentLevel.GameNetworkManager_22 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.14-18.47.24:979][ 50]LogWorld: Bringing up level for play took: 0.001314
+[2015.09.14-18.47.25:010][ 50]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DevMap_01 0.843
+[2015.09.14-18.47.25:032][ 51]LogRenderer: Reallocating scene render targets to support 1280x720 (Frame:110235).
+[2015.09.14-18.47.26:474][132]LogRenderer: Reallocating scene render targets to support 1920x1016 (Frame:110317).
+[2015.09.14-18.47.35:354][694]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000003780088B80
+[2015.09.14-18.48.07:556][112]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/DevMap_01' took 0.024
+[2015.09.14-18.48.07:561][112]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/PlayerShip_BP] ([1] browsable assets)...
+[2015.09.14-18.48.07:578][112]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PlayerShip_BP.PlayerShip_BP]
+[2015.09.14-18.48.07:578][112]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerShip_BP]
+[2015.09.14-18.48.07:597][112]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:597][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:597][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:597][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:597][112]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:597][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:597][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:597][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:597][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:598][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:598][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:598][112]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:615][112]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:615][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:615][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:615][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:615][112]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:615][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:615][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:615][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:615][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:616][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:616][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:616][112]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:633][112]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:633][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:633][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:633][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:634][112]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:634][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:634][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:634][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:634][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:634][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:634][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:634][112]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:689][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:689][112]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:689][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:689][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:689][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:689][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:689][112]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:689][112]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:689][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:689][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:689][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:689][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:723][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:723][112]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:723][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:723][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:723][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:723][112]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:723][112]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:723][112]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:723][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:724][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:724][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:724][112]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.48.07:728][112]LogSavePackage: Save=147.581299ms
+[2015.09.14-18.48.07:728][112]LogSavePackage: Moving '../../../../../../GitHub/EndlessSpace/EndlessSpace/Saved/PlayerShip_BP_Auto2872F74804E5140FA34F1E7A37A7684B3.tmp' to '../../../../../../GitHub/EndlessSpace/EndlessSpace/Saved/Autosaves/Game/Blueprints/PlayerShip_BP_Auto2.uasset'
+[2015.09.14-18.48.07:729][112]LogSavePackage: Total save time: 149.276547ms
+[2015.09.14-18.48.07:729][112]LogSavePackage:Warning: Finished SavePackage ../../../../../../GitHub/EndlessSpace/EndlessSpace/Saved/Autosaves/Game/Blueprints/PlayerShip_BP_Auto2.uasset
+[2015.09.14-18.48.07:729][112]LogFileHelpers: Auto-saving content packages took 0.173
+[2015.09.14-18.48.46:069][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.09.14-18.48.46:069][ 43]PIE: New page: PIE session: DevMap_01 (Sep 14, 2015, 10:48:46 PM)
+[2015.09.14-18.48.46:069][ 43]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap_01
+[2015.09.14-18.48.46:070][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000795s)
+[2015.09.14-18.48.46:071][ 43]LogAIModule: Creating AISystem for world DevMap_01
+[2015.09.14-18.48.46:071][ 43]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2015.09.14-18.48.46:071][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap_01.DevMap_01 to /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01 (0.001695s)
+[2015.09.14-18.48.46:071][ 43]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.09.14-18.48.46:097][ 43]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.09.14-18.48.46:104][ 43]LogInit: FAudioDevice initialized.
+[2015.09.14-18.48.46:140][ 43]LogWorld: Game class is 'EndlessGameMode_BP_C'
+[2015.09.14-18.48.46:143][ 43]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01 up for play (max tick rate 0) at 2015.09.14-20.48.46
+[2015.09.14-18.48.46:143][ 43]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01:PersistentLevel.GameSession_23 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.14-18.48.46:143][ 43]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01:PersistentLevel.GameNetworkManager_23 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.14-18.48.46:143][ 43]LogWorld: Bringing up level for play took: 0.001252
+[2015.09.14-18.48.46:145][ 43]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DevMap_01 -0.021
+[2015.09.14-18.48.58:226][939]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000037DE71FB00
+[2015.09.14-18.49.33:769][658]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2015.09.14-18.49.37:920][907]LogEditorViewport: Clicking Background
+[2015.09.14-18.49.39:933][ 46]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2015.09.14-18.49.43:329][250]LogEditorViewport: Clicking Background
+[2015.09.14-18.53.03:331][227]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.09.14-18.53.19:872][795]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_14) Not registered. Aborting.
+[2015.09.14-18.53.36:569][561]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_15) Not registered. Aborting.
+[2015.09.14-18.53.48:860][758]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_16) Not registered. Aborting.
+[2015.09.14-18.54.14:490][277]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_17) Not registered. Aborting.
+[2015.09.14-18.55.37:591][714]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_18) Not registered. Aborting.
+[2015.09.14-18.55.41:093][ 76]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_19) Not registered. Aborting.
+[2015.09.14-18.55.56:047][522]BlueprintLog: New page: Compile PlayerShip_BP
+[2015.09.14-18.55.56:154][522]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_20) Not registered. Aborting.
+[2015.09.14-18.55.56:193][522]BlueprintEditorCompileResults: Info [2327.19] Compile of PlayerShip_BP successful! [in 146 ms]
+[2015.09.14-18.55.58:163][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.09.14-18.55.58:163][705]PIE: New page: PIE session: DevMap_01 (Sep 14, 2015, 10:55:58 PM)
+[2015.09.14-18.55.58:163][705]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap_01
+[2015.09.14-18.55.58:164][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000926s)
+[2015.09.14-18.55.58:165][705]LogAIModule: Creating AISystem for world DevMap_01
+[2015.09.14-18.55.58:165][705]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2015.09.14-18.55.58:165][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap_01.DevMap_01 to /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01 (0.002258s)
+[2015.09.14-18.55.58:165][705]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.09.14-18.55.58:199][705]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.09.14-18.55.58:208][705]LogInit: FAudioDevice initialized.
+[2015.09.14-18.55.58:243][705]LogWorld: Game class is 'EndlessGameMode_BP_C'
+[2015.09.14-18.55.58:245][705]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01 up for play (max tick rate 0) at 2015.09.14-20.55.58
+[2015.09.14-18.55.58:246][705]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01:PersistentLevel.GameSession_24 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.14-18.55.58:246][705]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01:PersistentLevel.GameNetworkManager_24 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.14-18.55.58:246][705]LogWorld: Bringing up level for play took: 0.001287
+[2015.09.14-18.55.58:248][705]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DevMap_01 0.081
+[2015.09.14-18.55.58:687][749]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=634.241 Y=260.000 Z=1.000
+[2015.09.14-18.55.59:238][804]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=500.241 Y=218.000 Z=1.000
+[2015.09.14-18.55.59:570][836]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=1002.241 Y=56.000 Z=1.000
+[2015.09.14-18.55.59:928][873]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=755.241 Y=305.000 Z=1.000
+[2015.09.14-18.56.00:611][940]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=476.241 Y=121.000 Z=1.000
+[2015.09.14-18.56.00:885][966]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=885.241 Y=89.000 Z=1.000
+[2015.09.14-18.56.01:158][994]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=863.241 Y=307.000 Z=1.000
+[2015.09.14-18.56.01:425][ 20]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=497.241 Y=202.000 Z=1.000
+[2015.09.14-18.56.01:726][ 49]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=780.241 Y=304.000 Z=1.000
+[2015.09.14-18.56.03:544][232]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=605.241 Y=258.000 Z=1.000
+[2015.09.14-18.56.04:596][340]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=884.241 Y=216.000 Z=1.000
+[2015.09.14-18.56.05:026][383]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=800.241 Y=360.000 Z=1.000
+[2015.09.14-18.56.05:241][405]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=676.241 Y=424.000 Z=1.000
+[2015.09.14-18.56.05:480][427]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=527.241 Y=448.000 Z=1.000
+[2015.09.14-18.56.05:676][447]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=334.241 Y=423.000 Z=1.000
+[2015.09.14-18.56.06:847][563]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=477.241 Y=131.000 Z=1.000
+[2015.09.14-18.56.07:744][651]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=713.241 Y=165.000 Z=1.000
+[2015.09.14-18.56.08:079][684]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=294.241 Y=132.000 Z=1.000
+[2015.09.14-18.56.08:335][710]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=88.241 Y=129.000 Z=1.000
+[2015.09.14-18.56.09:270][800]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=60.241 Y=129.000 Z=1.000
+[2015.09.14-18.56.09:626][836]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=43.241 Y=146.000 Z=1.000
+[2015.09.14-18.56.09:896][863]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=42.241 Y=156.000 Z=1.000
+[2015.09.14-18.56.10:175][891]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=42.241 Y=157.000 Z=1.000
+[2015.09.14-18.56.12:703][147]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=4.241 Y=41.000 Z=1.000
+[2015.09.14-18.56.15:661][451]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=2.241 Y=45.000 Z=1.000
+[2015.09.14-18.56.17:649][650]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=1177.241 Y=93.000 Z=1.000
+[2015.09.14-18.56.19:415][824]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=399.241 Y=10.000 Z=1.000
+[2015.09.14-18.56.21:726][ 56]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=353.241 Y=532.000 Z=1.000
+[2015.09.14-18.56.23:477][234]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=360.241 Y=498.000 Z=1.000
+[2015.09.14-18.56.23:694][254]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=372.241 Y=473.000 Z=1.000
+[2015.09.14-18.56.23:882][273]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=379.241 Y=411.000 Z=1.000
+[2015.09.14-18.56.24:080][293]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=389.241 Y=330.000 Z=1.000
+[2015.09.14-18.56.24:907][374]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=363.241 Y=52.000 Z=1.000
+[2015.09.14-18.56.26:085][495]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=370.241 Y=2.000 Z=1.000
+[2015.09.14-18.56.27:693][657]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=352.241 Y=531.000 Z=1.000
+[2015.09.14-18.56.28:517][741]LogBlueprintUserMessages: [PlayerShip_BP_C_7] X=655.241 Y=255.000 Z=1.000
+[2015.09.14-18.56.29:441][829]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000037E36389A0
+[2015.09.14-18.56.34:298][303]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2015.09.14-18.56.34:298][303]PIE: New page: PIE session: DevMap_01 (Sep 14, 2015, 10:56:34 PM)
+[2015.09.14-18.56.34:298][303]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap_01
+[2015.09.14-18.56.34:299][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000850s)
+[2015.09.14-18.56.34:300][303]LogAIModule: Creating AISystem for world DevMap_01
+[2015.09.14-18.56.34:300][303]LogPlayLevel: PIE: World Init took: (0.000731s)
+[2015.09.14-18.56.34:300][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap_01.DevMap_01 to /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01 (0.001758s)
+[2015.09.14-18.56.34:328][303]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2015.09.14-18.56.34:336][303]LogInit: FAudioDevice initialized.
+[2015.09.14-18.56.34:368][303]LogWorld: Game class is 'EndlessGameMode_BP_C'
+[2015.09.14-18.56.34:370][303]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01 up for play (max tick rate 0) at 2015.09.14-20.56.34
+[2015.09.14-18.56.34:370][303]LogActor:Warning: GameSession /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01:PersistentLevel.GameSession_25 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.14-18.56.34:370][303]LogActor:Warning: GameNetworkManager /Game/Maps/UEDPIE_0_DevMap_01.DevMap_01:PersistentLevel.GameNetworkManager_25 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2015.09.14-18.56.34:371][303]LogWorld: Bringing up level for play took: 0.001348
+[2015.09.14-18.56.34:373][303]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DevMap_01 0.206
+[2015.09.14-18.56.35:727][431]LogBlueprintUserMessages: [PlayerShip_BP_C_8] X=28.241 Y=151.000 Z=1.000
+[2015.09.14-18.56.36:894][548]LogBlueprintUserMessages: [PlayerShip_BP_C_8] X=810.241 Y=154.000 Z=1.000
+[2015.09.14-18.56.37:961][655]LogBlueprintUserMessages: [PlayerShip_BP_C_8] X=609.241 Y=474.000 Z=1.000
+[2015.09.14-18.56.39:329][793]LogBlueprintUserMessages: [PlayerShip_BP_C_8] X=559.241 Y=101.000 Z=1.000
+[2015.09.14-18.56.40:841][946]LogBlueprintUserMessages: [PlayerShip_BP_C_8] X=567.241 Y=9.000 Z=1.000
+[2015.09.14-18.56.41:832][ 35]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000037E36CAF20
+[2015.09.14-18.57.10:032][865]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.09.14-18.57.16:056][418]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_21) Not registered. Aborting.
+[2015.09.14-18.57.26:239][368]BlueprintLog: New page: Compile PlayerShip_BP
+[2015.09.14-18.57.26:346][368]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharacterMovementComponent_22) Not registered. Aborting.
+[2015.09.14-18.57.26:384][368]BlueprintEditorCompileResults: Info [2417.38] Compile of PlayerShip_BP successful! [in 144 ms]
+[2015.09.14-18.58.58:721][  4]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.09.14-18.58.58:751][  4]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/DevMap_01' took 0.030
+[2015.09.14-18.58.58:757][  4]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/PlayerShip_BP] ([1] browsable assets)...
+[2015.09.14-18.58.58:774][  4]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PlayerShip_BP.PlayerShip_BP]
+[2015.09.14-18.58.58:774][  4]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerShip_BP]
+[2015.09.14-18.58.58:797][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:797][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:797][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:797][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:798][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:798][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:798][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:798][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:798][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:798][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:798][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:798][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:817][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:817][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:817][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:817][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:817][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:817][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:817][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:817][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:817][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:818][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:818][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:818][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:847][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:847][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:847][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:847][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:847][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:847][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:847][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:847][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:847][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:847][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:847][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:847][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:911][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:911][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:911][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:911][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:911][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:911][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:911][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:911][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:911][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:911][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:911][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:911][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:956][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:956][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:956][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:956][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:956][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:957][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:957][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:957][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:957][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:957][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:957][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:957][  4]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-18.58.58:960][  4]LogSavePackage: Save=181.051559ms
+[2015.09.14-18.58.58:961][  4]LogSavePackage: Moving '../../../../../../GitHub/EndlessSpace/EndlessSpace/Saved/PlayerShip_BP_Auto378ED6BFB416576723A6460A123014123.tmp' to '../../../../../../GitHub/EndlessSpace/EndlessSpace/Saved/Autosaves/Game/Blueprints/PlayerShip_BP_Auto3.uasset'
+[2015.09.14-18.58.58:962][  4]LogSavePackage: Total save time: 186.519161ms
+[2015.09.14-18.58.58:962][  4]LogSavePackage:Warning: Finished SavePackage ../../../../../../GitHub/EndlessSpace/EndlessSpace/Saved/Autosaves/Game/Blueprints/PlayerShip_BP_Auto3.uasset
+[2015.09.14-18.58.58:962][  4]LogFileHelpers: Auto-saving content packages took 0.210
+[2015.09.14-19.08.03:244][119]LogActorComponent: UnregisterComponent: (/Engine/Transient.CharMoveComp) Not registered. Aborting.
+[2015.09.14-19.08.03:315][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerShip_BP" FILE="../../../../../../GitHub/EndlessSpace/EndlessSpace/Content/Blueprints/PlayerShip_BP.uasset" SILENT=true
+[2015.09.14-19.08.03:339][119]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:339][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:339][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:339][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:340][119]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:340][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:340][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:340][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:340][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:340][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:340][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:340][119]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:358][119]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:358][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:358][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:358][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:358][119]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:359][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:359][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:359][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:359][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:359][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:359][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:359][119]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:377][119]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:377][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:377][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:377][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:377][119]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:377][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:377][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:378][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:378][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:378][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:378][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:378][119]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:438][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:438][119]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:438][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:438][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:438][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:438][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:438][119]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:438][119]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:438][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:438][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:438][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:438][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:478][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:478][119]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:478][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipHorizontalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:479][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovement' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:479][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipMovementSpeed' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:479][119]LogBlueprintUserMessages: Serialization for Get node for variable 'ShipVerticalMovementSpeedToHorizontal' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:479][119]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:479][119]LogBlueprintUserMessages: Serialization for Get node for variable 'Cube' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:479][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:479][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:479][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:479][119]LogBlueprintUserMessages: Serialization for Get node for variable 'MoveShipTo' in Blueprint '/Game/Blueprints/PlayerShip_BP.PlayerShip_BP' which is setup as pure
+[2015.09.14-19.08.03:482][119]LogSavePackage: Save=161.201843ms
+[2015.09.14-19.08.03:482][119]LogSavePackage: Moving '../../../../../../GitHub/EndlessSpace/EndlessSpace/Saved/PlayerShip_BP0DFEA084475591FF829C02877983B1CF.tmp' to '../../../../../../GitHub/EndlessSpace/EndlessSpace/Content/Blueprints/PlayerShip_BP.uasset'
+[2015.09.14-19.08.03:485][119]LogSavePackage: Total save time: 168.086063ms
+[2015.09.14-19.08.03:485][119]LogSavePackage:Warning: Finished SavePackage ../../../../../../GitHub/EndlessSpace/EndlessSpace/Content/Blueprints/PlayerShip_BP.uasset
+[2015.09.14-19.08.04:692][221]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2015.09.14-19.08.04:694][221]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2015.09.14-19.08.04:997][222]Cmd: QUIT_EDITOR
+[2015.09.14-19.08.05:405][222]LogExit: Preparing to exit.
+[2015.09.14-19.08.06:623][222]LogExit: Editor shut down
+[2015.09.14-19.08.06:625][222]LogExit: Transaction tracking system shut down
+[2015.09.14-19.08.06:629][222]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000378F1B0F40
+[2015.09.14-19.08.06:630][222]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000037911AA660
+[2015.09.14-19.08.06:634][222]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000037A1460AE0
+[2015.09.14-19.08.06:636][222]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000037C519B880
+[2015.09.14-19.08.06:866][222]LogExit: Object subsystem successfully closed.
+[2015.09.14-19.08.06:889][222]LogD3D11RHI: Shutdown
+[2015.09.14-19.08.06:889][222]LogD3D11RHI: CleanupD3DDevice
+[2015.09.14-19.08.06:952][222]LogD3D11RHI: ~FD3D11DynamicRHI
+[2015.09.14-19.08.06:969][222]LogModuleManager: Shutting down and abandoning module BlueprintGraph (199)
+[2015.09.14-19.08.06:969][222]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (198)
+[2015.09.14-19.08.06:969][222]LogModuleManager: Shutting down and abandoning module CrashTracker (197)
+[2015.09.14-19.08.06:969][222]LogModuleManager: Shutting down and abandoning module SceneOutliner (196)
+[2015.09.14-19.08.06:969][222]LogModuleManager: Shutting down and abandoning module SuperSearch (195)
+[2015.09.14-19.08.06:969][222]LogModuleManager: Shutting down and abandoning module WidgetCarousel (194)
+[2015.09.14-19.08.06:969][222]LogModuleManager: Shutting down and abandoning module AddContentDialog (193)
+[2015.09.14-19.08.06:975][222]LogModuleManager: Shutting down and abandoning module EditorWidgets (192)
+[2015.09.14-19.08.06:975][222]LogModuleManager: Shutting down and abandoning module CollectionManager (191)
+[2015.09.14-19.08.06:976][222]LogModuleManager: Shutting down and abandoning module StatsViewer (190)
+[2015.09.14-19.08.06:976][222]LogModuleManager: Shutting down and abandoning module FoliageEdit (189)
+[2015.09.14-19.08.06:976][222]LogModuleManager: Shutting down and abandoning module LandscapeEditor (188)
+[2015.09.14-19.08.06:976][222]LogModuleManager: Shutting down and abandoning module ActorPickerMode (187)
+[2015.09.14-19.08.06:976][222]LogModuleManager: Shutting down and abandoning module GeometryMode (186)
+[2015.09.14-19.08.06:976][222]LogModuleManager: Shutting down and abandoning module TextureAlignMode (185)
+[2015.09.14-19.08.06:976][222]LogModuleManager: Shutting down and abandoning module BspMode (184)
+[2015.09.14-19.08.06:976][222]LogModuleManager: Shutting down and abandoning module PlacementMode (183)
+[2015.09.14-19.08.06:976][222]LogModuleManager: Shutting down and abandoning module AutomationWorker (182)
+[2015.09.14-19.08.06:976][222]LogModuleManager: Shutting down and abandoning module CharacterAI (181)
+[2015.09.14-19.08.06:976][222]LogModuleManager: Shutting down and abandoning module SmartSnapping (180)
+[2015.09.14-19.08.06:976][222]LogModuleManager: Shutting down and abandoning module ViewportSnapping (179)
+[2015.09.14-19.08.06:976][222]LogModuleManager: Shutting down and abandoning module LogVisualizer (178)
+[2015.09.14-19.08.06:976][222]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (177)
+[2015.09.14-19.08.06:976][222]LogModuleManager: Shutting down and abandoning module IntroTutorials (176)
+[2015.09.14-19.08.06:977][222]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (175)
+[2015.09.14-19.08.06:977][222]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (174)
+[2015.09.14-19.08.06:977][222]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (173)
+[2015.09.14-19.08.06:977][222]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (172)
+[2015.09.14-19.08.07:515][222]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (171)
+[2015.09.14-19.08.07:515][222]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (170)
+[2015.09.14-19.08.07:515][222]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (169)
+[2015.09.14-19.08.07:515][222]LogModuleManager: Shutting down and abandoning module MergeActors (168)
+[2015.09.14-19.08.07:515][222]LogModuleManager: Shutting down and abandoning module SizeMap (167)
+[2015.09.14-19.08.07:515][222]LogModuleManager: Shutting down and abandoning module TreeMap (166)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module ReferenceViewer (165)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module LocalizationService (164)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (163)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module HardwareTargeting (162)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (161)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module UndoHistory (160)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (159)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module UserFeedback (158)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module XmlParser (157)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module Blutility (156)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (155)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (154)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module InputBindingEditor (153)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (152)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module SettingsEditor (151)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module ProjectLauncher (150)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module SessionFrontend (149)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module ProfilerClient (148)
+[2015.09.14-19.08.07:516][222]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (147)
+[2015.09.14-19.08.07:517][222]LogModuleManager: Shutting down and abandoning module DeviceManager (146)
+[2015.09.14-19.08.07:517][222]LogModuleManager: Shutting down and abandoning module AutomationController (145)
+[2015.09.14-19.08.07:517][222]LogModuleManager: Shutting down and abandoning module AutomationWindow (144)
+[2015.09.14-19.08.07:517][222]LogModuleManager: Shutting down and abandoning module Layers (143)
+[2015.09.14-19.08.07:517][222]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (142)
+[2015.09.14-19.08.07:517][222]LogModuleManager: Shutting down and abandoning module DetailCustomizations (141)
+[2015.09.14-19.08.07:517][222]LogModuleManager: Shutting down and abandoning module PackagesDialog (140)
+[2015.09.14-19.08.07:517][222]LogModuleManager: Shutting down and abandoning module Persona (139)
+[2015.09.14-19.08.07:517][222]LogModuleManager: Shutting down and abandoning module Kismet (138)
+[2015.09.14-19.08.07:517][222]LogModuleManager: Shutting down and abandoning module GraphEditor (137)
+[2015.09.14-19.08.07:517][222]LogModuleManager: Shutting down and abandoning module ClassViewer (136)
+[2015.09.14-19.08.07:517][222]LogModuleManager: Shutting down and abandoning module Toolbox (135)
+[2015.09.14-19.08.07:517][222]LogModuleManager: Shutting down and abandoning module ModuleUI (134)
+[2015.09.14-19.08.07:518][222]LogModuleManager: Shutting down and abandoning module MovieSceneTools (133)
+[2015.09.14-19.08.07:518][222]LogModuleManager: Shutting down and abandoning module OutputLog (132)
+[2015.09.14-19.08.07:518][222]LogModuleManager: Shutting down and abandoning module GammaUI (131)
+[2015.09.14-19.08.07:518][222]LogModuleManager: Shutting down and abandoning module Documentation (130)
+[2015.09.14-19.08.07:518][222]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (129)
+[2015.09.14-19.08.07:518][222]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (128)
+[2015.09.14-19.08.07:518][222]LogModuleManager: Shutting down and abandoning module AnalyticsET (127)
+[2015.09.14-19.08.07:518][222]LogModuleManager: Shutting down and abandoning module Analytics (126)
+[2015.09.14-19.08.07:518][222]LogModuleManager: Shutting down and abandoning module AITestSuite (125)
+[2015.09.14-19.08.07:518][222]LogModuleManager: Shutting down and abandoning module GameplayDebugger (124)
+[2015.09.14-19.08.07:518][222]LogModuleManager: Shutting down and abandoning module AIModule (123)
+[2015.09.14-19.08.07:518][222]LogModuleManager: Shutting down and abandoning module ProfilerService (122)
+[2015.09.14-19.08.07:760][222]LogModuleManager: Shutting down and abandoning module TaskGraph (121)
+[2015.09.14-19.08.07:760][222]LogModuleManager: Shutting down and abandoning module SlateRemote (120)
+[2015.09.14-19.08.07:761][222]LogModuleManager: Shutting down and abandoning module SteamVRController (119)
+[2015.09.14-19.08.07:761][222]LogModuleManager: Shutting down and abandoning module SteamVR (118)
+[2015.09.14-19.08.07:761][222]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (117)
+[2015.09.14-19.08.07:761][222]LogModuleManager: Shutting down and abandoning module OculusRift (116)
+[2015.09.14-19.08.07:761][222]LogModuleManager: Shutting down and abandoning module OculusLibrary (115)
+[2015.09.14-19.08.07:761][222]LogModuleManager: Shutting down and abandoning module LeapMotionController (114)
+[2015.09.14-19.08.07:786][222]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (113)
+[2015.09.14-19.08.07:786][222]LogModuleManager: Shutting down and abandoning module CableComponent (112)
+[2015.09.14-19.08.07:786][222]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (111)
+[2015.09.14-19.08.07:786][222]LogModuleManager: Shutting down and abandoning module MessagingDebugger (110)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (109)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module HTML5Networking (108)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (107)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module PluginBrowser (106)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module EpicSurvey (105)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module DesktopPlatform (104)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (103)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module UObjectPlugin (102)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (101)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (100)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module SourceControl (99)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module GitSourceControl (98)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (97)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (96)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (95)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module MeshPaint (94)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module SlateReflector (93)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module HotReload (92)
+[2015.09.14-19.08.07:787][222]LogModuleManager: Shutting down and abandoning module MainFrame (91)
+[2015.09.14-19.08.07:788][222]LogModuleManager: Shutting down and abandoning module LevelEditor (90)
+[2015.09.14-19.08.07:790][222]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (89)
+[2015.09.14-19.08.07:800][222]LogModuleManager: Shutting down and abandoning module AssetRegistry (88)
+[2015.09.14-19.08.07:942][222]LogModuleManager: Shutting down and abandoning module ContentBrowser (87)
+[2015.09.14-19.08.07:944][222]LogModuleManager: Shutting down and abandoning module Paper2DEditor (86)
+[2015.09.14-19.08.07:944][222]LogModuleManager: Shutting down and abandoning module UdpMessaging (85)
+[2015.09.14-19.08.08:044][222]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (84)
+[2015.09.14-19.08.08:044][222]LogModuleManager: Shutting down and abandoning module Paper2D (83)
+[2015.09.14-19.08.08:044][222]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (82)
+[2015.09.14-19.08.08:049][222]LogModuleManager: Shutting down and abandoning module Media (81)
+[2015.09.14-19.08.08:049][222]LogModuleManager: Shutting down and abandoning module WmfMedia (80)
+[2015.09.14-19.08.08:049][222]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (79)
+[2015.09.14-19.08.08:049][222]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (78)
+[2015.09.14-19.08.08:049][222]LogModuleManager: Shutting down and abandoning module PropertyEditor (77)
+[2015.09.14-19.08.08:049][222]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (76)
+[2015.09.14-19.08.08:049][222]LogModuleManager: Shutting down and abandoning module FunctionalTesting (75)
+[2015.09.14-19.08.08:049][222]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (74)
+[2015.09.14-19.08.08:049][222]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (73)
+[2015.09.14-19.08.08:049][222]LogModuleManager: Shutting down and abandoning module MessageLog (72)
+[2015.09.14-19.08.08:049][222]LogModuleManager: Shutting down and abandoning module Sequencer (71)
+[2015.09.14-19.08.08:049][222]LogModuleManager: Shutting down and abandoning module AssetTools (70)
+[2015.09.14-19.08.08:049][222]LogModuleManager: Shutting down and abandoning module UMGEditor (69)
+[2015.09.14-19.08.08:049][222]LogModuleManager: Shutting down and abandoning module UMG (68)
+[2015.09.14-19.08.08:050][222]LogModuleManager: Shutting down and abandoning module Slate (67)
+[2015.09.14-19.08.08:050][222]LogModuleManager: Shutting down and abandoning module EditorStyle (66)
+[2015.09.14-19.08.08:053][222]LogModuleManager: Shutting down and abandoning module SessionServices (65)
+[2015.09.14-19.08.08:053][222]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (64)
+[2015.09.14-19.08.08:053][222]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (63)
+[2015.09.14-19.08.08:053][222]LogModuleManager: Shutting down and abandoning module XAudio2 (62)
+[2015.09.14-19.08.08:053][222]LogModuleManager: Shutting down and abandoning module Networking (60)
+[2015.09.14-19.08.08:053][222]LogModuleManager: Shutting down and abandoning module Core (59)
+[2015.09.14-19.08.08:053][222]LogModuleManager: Shutting down and abandoning module KismetCompiler (58)
+[2015.09.14-19.08.08:053][222]LogModuleManager: Shutting down and abandoning module PhysXFormats (57)
+[2015.09.14-19.08.08:053][222]LogModuleManager: Shutting down and abandoning module MeshUtilities (56)
+[2015.09.14-19.08.08:053][222]LogModuleManager: Shutting down and abandoning module CookingStats (55)
+[2015.09.14-19.08.08:054][222]LogModuleManager: Shutting down and abandoning module DerivedDataCache (54)
+[2015.09.14-19.08.08:131][222]LogDerivedDataCache: Shutdown
+[2015.09.14-19.08.08:131][222]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (53)
+[2015.09.14-19.08.08:131][222]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (52)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (51)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (50)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (49)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (48)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (47)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module ImageWrapper (46)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (45)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (44)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (43)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (42)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (41)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (40)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (39)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (38)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module Messaging (37)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (36)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (35)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (34)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (33)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (32)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (31)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (30)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (29)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (28)
+[2015.09.14-19.08.08:132][222]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (27)
+[2015.09.14-19.08.08:133][222]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (26)
+[2015.09.14-19.08.08:133][222]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (25)
+[2015.09.14-19.08.08:133][222]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (24)
+[2015.09.14-19.08.08:133][222]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (23)
+[2015.09.14-19.08.08:133][222]LogModuleManager: Shutting down and abandoning module TargetPlatform (22)
+[2015.09.14-19.08.08:133][222]LogModuleManager: Shutting down and abandoning module InputCore (21)
+[2015.09.14-19.08.08:133][222]LogModuleManager: Shutting down and abandoning module Settings (20)
+[2015.09.14-19.08.08:133][222]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (18)
+[2015.09.14-19.08.08:133][222]LogModuleManager: Shutting down and abandoning module HTTP (17)
+[2015.09.14-19.08.10:637][222]LogModuleManager: Shutting down and abandoning module XMPP (16)
+[2015.09.14-19.08.10:638][222]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (15)
+[2015.09.14-19.08.10:638][222]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2015.09.14-19.08.10:638][222]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2015.09.14-19.08.10:638][222]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2015.09.14-19.08.10:638][222]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2015.09.14-19.08.10:651][222]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2015.09.14-19.08.10:651][222]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2015.09.14-19.08.10:651][222]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2015.09.14-19.08.10:651][222]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2015.09.14-19.08.10:651][222]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2015.09.14-19.08.10:651][222]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2015.09.14-19.08.10:651][222]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2015.09.14-19.08.10:651][222]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2015.09.14-19.08.10:651][222]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2015.09.14-19.08.10:651][222]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2015.09.14-19.08.10:652][222]LogExit: Exiting.
+[2015.09.14-19.08.10:657][222]Log file closed, 09/14/15 21:08:10
